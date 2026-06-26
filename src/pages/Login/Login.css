@@ -93,7 +93,7 @@
 .netflix_spinner img{
     width: 60px;
 }
-@media (max-width:500%) {
+@media (max-width:500px) {
     .login{
         padding: 15px 5%;
     }
